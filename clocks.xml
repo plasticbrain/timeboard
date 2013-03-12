@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="0.91">
+
+<channel>
+    <title>ClockBoard</title>
+    <link>http://mikeeverhart.net/clockboard/</link>
+    <description>The config file that defines all of your clocks</description>
+</channel>
+
+<clocks>
+
+
+	<clock>
+		<location>Memphis</location>
+		<timezone>America/Chicago</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>California</location>
+		<timezone>America/Los_Angeles</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>New York</location>
+		<timezone>America/New_York</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+
+	<clock>
+		<location>Paris</location>
+		<timezone>Europe/Paris</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>Moscow</location>
+		<timezone>Europe/Moscow</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>Poland</location>
+		<timezone>Europe/Warsaw</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+
+	<clock>
+		<location>Hong Kong</location>
+		<timezone>Asia/Hong_Kong</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>Tokyo</location>
+		<timezone>Asia/Tokyo</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	<clock>
+		<location>Shanghai</location>
+		<timezone>Asia/Shanghai</timezone>
+		<showseconds>false</showseconds>
+		<showmeridiem>true</showmeridiem>
+	</clock>
+
+	
+</clocks>
+
+</rss>
